@@ -66,7 +66,7 @@ I chose “A counter on the Casper chain” tutorial
 ## Prerequisites:
 
 -	Set up a Casper Rust development environment
--	Set up a local network with NCL
+-	Set up a local network with NCTL
 -	Install the casper-client
 
 
@@ -74,7 +74,7 @@ I chose “A counter on the Casper chain” tutorial
 
 ![](https://i.imgur.com/6B4pPaU.png)
 
-### 2.1 Set up a local network with NCL
+### 2.1 Set up a local network with NCTL
 #### 2.1.1 Pip install
 `sudo apt install python3-pip`
 
